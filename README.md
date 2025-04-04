@@ -3,7 +3,7 @@
 
 
 <h1>Azure - Creating VM and Connceting With Remote Desktop</h1>
-This tutorial outlines the prerequisites and installation of virtual machines and connceting via remote desktop using Azure.<br />
+This tutorial outlines the prerequisites and installation of virtual machines and connceting via remote desktop.<br />
 
 
 <h2>Video Demonstration</h2>
