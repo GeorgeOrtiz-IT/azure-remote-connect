@@ -7,7 +7,8 @@ This tutorial outlines the prerequisites and installation of virtual machines an
 
 <h2>Files you need to download</h2>
 
-https://remote-desktop-connection.en.softonic.com/
+- ### [Download Now](https://remote-desktop-connection.en.softonic.com/) 📁 Remote Desktop Connection App for Windows
+- ### [Download Now](https://microsoft-remote-desktop.macupdate.com/) 📁 Remote Desktop Connection App for Mac
 
 <h2>Environments and Technologies Used</h2>
 
