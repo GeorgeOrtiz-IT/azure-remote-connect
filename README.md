@@ -75,4 +75,6 @@ Connecting to the virtual machine begins...
 
 ![Screenshot 2025-04-04 051828](https://github.com/user-attachments/assets/28e9d772-1bf9-4500-aff3-2713c33a6f4e)
 
-If successful, your screen should look like this
+If successful, your screen should look like this. You have now successfully created a virtual machine and connected 
+via remote desktop connection. If you are done using the virtual machine, you can go back to Azure dashboard, type
+virtual machines and check the box for your virtual machine and click stop or you can also delete it if you want
