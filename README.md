@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of virtual machines an
 
 - Create a Azure Free Account
 - Create a Virtual Machine in Azure
+- Create a Resource Group in Azure
 - Download Remote Desktop Connection App
 
 <h2>Installation Steps</h2>
