@@ -59,11 +59,12 @@ image above, we now have a public ip address and we will use this in order to co
 
 ![Screenshot 2025-04-04 051707](https://github.com/user-attachments/assets/51ec3508-9a50-4e9c-9612-7e77e103914b)
 
-On your Windows PC or if you're on Mac, open up Remote Desk Connection and enter the public ip address of the virtual machine.
+On your Windows PC or if you're on Mac, open up Remote Desk Connection and enter the public ip address of the virtual machine. Click "Connect". 
+You will then have another screen pop up as shown on the following image down below.
 
 ![Screenshot 2025-04-04 051736](https://github.com/user-attachments/assets/49d46d38-6bef-418a-80bf-ab9b5b5bfb1a)
 
-Enter the credentials of the virtual machine you created.
+Enter the credentials of the virtual machine you created. Click "Ok".
 
 ![Screenshot 2025-04-04 051749](https://github.com/user-attachments/assets/c715a913-962f-4166-8cfd-7ee8cfbf2897)
 
@@ -77,4 +78,4 @@ Connecting to the virtual machine begins...
 
 If successful, your screen should look like this. You have now successfully created a virtual machine and connected 
 via remote desktop connection. If you are done using the virtual machine, you can go back to Azure dashboard, type
-virtual machines and check the box for your virtual machine and click stop or you can also delete it if you want.
+virtual machines and check the box for your virtual machine and click stop or you can also delete the virtual machine if you want.
