@@ -5,6 +5,9 @@
 <h1>Azure - Creating VM's and Connecting With Remote Desktop</h1>
 This tutorial outlines the prerequisites and installation of virtual machines and connecting via remote desktop.<br />
 
+<h2>Files you need to download</h2>
+
+https://remote-desktop-connection.en.softonic.com/
 
 <h2>Environments and Technologies Used</h2>
 
