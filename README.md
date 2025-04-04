@@ -2,7 +2,7 @@
 
 
 
-<h1>Azure - Creating VM and Connecting With Remote Desktop</h1>
+<h1>Azure - Creating VM and Connecting With Remote Desktop To The Virtual Machine</h1>
 This tutorial outlines the prerequisites and installation of virtual machines and connecting via remote desktop.<br />
 
 
