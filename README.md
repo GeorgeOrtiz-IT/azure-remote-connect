@@ -46,7 +46,7 @@ remaining options as default. Exactly how it shows here on this image provided f
 
 For the image we chose Windows 10 because this machine will just be on a client for Windows 10, so select this image,
 for the size, this depends on your needs and how fast you want your virtual machine to operate, but I chose this one, 
-and for username, chooser a username you won't forget and do the same for your password, keep track of it.
+and for username, choose a username you won't forget and do the same for your password, keep track of it.
 
 
 ![Screenshot 2025-04-04 051410](https://github.com/user-attachments/assets/7f89a869-0e02-4a3b-81d6-b7f789c87ecc)
