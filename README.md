@@ -5,6 +5,7 @@
 <h1>Azure - Creating VM's and Connecting With Remote Desktop</h1>
 This tutorial outlines the prerequisites and installation of virtual machines and connecting via remote desktop.<br />
 
+
 <h2>Files you need to download</h2>
 
 - ### [Download Now](https://remote-desktop-connection.en.softonic.com/) 📁 Remote Desktop Connection App for Windows
@@ -26,12 +27,13 @@ This tutorial outlines the prerequisites and installation of virtual machines an
 - Download Remote Desktop Connection App
 
 <h2>Installation Steps</h2>
+https://azure.microsoft.com/en-us/get-started/azure-portal
 
 ![Screenshot 2025-04-04 051206](https://github.com/user-attachments/assets/2646aa6a-b419-4b5b-9dac-398d253f1dc7)
 
 
 First step after creating your Azure account, from this dashboard, hover over virtual machines and click on create Azure virtual machine.
-Then, from there it will prompt up another screen and will show as the following picture below this text.
+Then, from there it will prompt up another screen and will show as the following picture below this text. 
 
 ![Screenshot 2025-04-04 051310](https://github.com/user-attachments/assets/5b38ba80-7270-4196-bedf-ec15576106bb)
 
